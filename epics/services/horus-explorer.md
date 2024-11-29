@@ -28,9 +28,9 @@ To determine the number of existing patients in the Clinical Research Data Wareh
 1. Access the CHUV research portal (CHORUS) and log in with CHUV account
 2. Learn about the procedures for creating a clinical study through available documentation
 3. Follow the getting started guide to perform a feasibility query
-4. Request access to Horus Explorer via Jira form:
+4. Request access to Horus Explorer via CHUV form:
    https://formulaire.chuv.ch/sites/acces/Horus/Lists/Demandes/NewForm.aspx?Source=https%3A%2F%2Fformulaire%2Echuv%2Ech%2Fsites%2Facces%2FHorus%2FSitePages%2FAccueil%2Easpx&RootFolder=
-5. Receive credentials and access information via email
+5. Receive confirmation of Active Directory access enablement via email
 6. Log in to Horus Explorer and perform feasibility query
 7. Analyze results to determine study feasibility
 

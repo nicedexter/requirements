@@ -27,14 +27,13 @@ Dr. Marie Fischer, Chief Resident and Clinical Researcher in the Department of O
 **Steps:**
 1. Access the CHUV research portal (CHORUS) and log in with CHUV account
 2. Navigate to data administration workspace
-3. Review data quality reports and metrics
-4. Identify data elements requiring annotation
-5. Add or update metadata annotations
-6. Document any data quality issues
-7. Validate data completeness and accuracy
-8. Update data dictionaries as needed
+3. Request access to Horus Restitution via CHUV form
+4. Receive confirmation of Active Directory access enablemesnt via email
+5. Update data dictionaries as needed
 
 ### Data Engineer Story
+
+TODO
 
 **Persona:**
 Paul García, Data Engineer (@personae/data-engineer.md)

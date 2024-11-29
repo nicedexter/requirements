@@ -51,8 +51,3 @@ When contributing to this documentation:
 2. Follow the established structure for consistency
 3. Include clear acceptance criteria and steps
 4. Reference appropriate user personas
-
-## Related Resources
-- [CHUV Research Portal](https://research.chuv.ch)
-- [Horus Explorer Access](https://formulaire.chuv.ch/sites/acces/Horus)
-- [Data Request Form](https://jira.chuv.ch/servicedesk/customer/portal/1/create/30) 
